@@ -61,3 +61,14 @@ System.out.println(“Enter breadth Value”);
 
 }
 }
+
+
+/* Steps : 
+1. Start 
+2. Create an abstract class named shape that contains two double type numbers and an empty method named compute_area(). 
+3. Provide two classes named rectangle and triangle such that each one of the classes extends the class Shape. 
+4. Each of the inherited class from shape class should provide the implementation for the method compute_area(). 
+5. Get the input and calculate the area of rectangle and triangle. 
+6. In the fourth separate class, create the objects for the two inherited classes and invoke the methods and display the area values of the different shapes. 
+7. Stop.  
+*/
