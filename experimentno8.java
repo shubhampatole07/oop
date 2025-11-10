@@ -191,3 +191,25 @@ public class StudentsRecords
 		call.showMenu();
 	}
 }
+
+
+/* Algorithm for Adding Records:- 
+ 1. Start
+ 	2. Open the database file. 
+3. Read data from the user. 
+4. Print the data to file.
+ 5. Close the file.
+ 6. End  
+Algorithm for Displaying Records:-  
+1. Start 
+2. Open the database file. 
+3. Read data from the filr. 
+4. Print the data on screen.
+ 5. Close the file. 
+6. End  
+Algorithm for Clearing All Records:- 
+ 	1. Start 
+2. Overwrite the database file with a blank file. 
+3. Close the file. 
+4. End 
+*/
