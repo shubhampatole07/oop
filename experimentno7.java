@@ -132,3 +132,14 @@ public class Generic
 		}
 	}
 }
+
+
+/*Steps:- 
+1. Start 
+2. Make a collection
+3. Here ArrayList is used a collection, add wanted elements in the List
+4. Pass this collection to findcount method 
+5. Count number of even , odd, prime, palindrome, total elements in the collection 
+6. Display the respective counts 
+7. Stop 
+*/
