@@ -85,13 +85,13 @@ Class Polymorshism
 }
 }
 
-Algorithm/Steps: 
-1.   Start
-2. Give identity whether user is customer or employee 
-3. If customer, give input whether book or magazine what is to be purchased 
-4. If book take the number of author and name of publication and number of quantities 
-needed 
-5. If magazine take name, issue and number of quantities needed 
-6. Display total price of purchased books or magazine 
-7. If employee, display the total sales data of books and magazine sold 
-8. Stop 
+ //Algorithm/Steps: 
+//1.   Start
+//2. Give identity whether user is customer or employee 
+//3. If customer, give input whether book or magazine what is to be purchased 
+//4. If book take the number of author and name of publication and number of quantities 
+//needed 
+//5. If magazine take name, issue and number of quantities needed 
+//6. Display total price of purchased books or magazine 
+//7. If employee, display the total sales data of books and magazine sold 
+//8. Stop //
