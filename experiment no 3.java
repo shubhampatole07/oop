@@ -188,3 +188,14 @@ pm2.netSalary();
 
 }
 }
+
+
+/*Algorithm/Steps: 
+1. Start 
+2. Create the class Employee with name, Empid, address, mailid, mobileno as data members. 3. Inherit the classes Programmer, Team Lead, Assistant Project Manager and Project Manager from employee class. 
+4. Add Basic Pay (BP) as the member of all the inherited classes. 
+5. Calculate DA as 97% of BP, HRA as 10% of BP, PF as 12% of BP, Staff club fund as 0.1% of BP.
+ 6. Calculate gross salary and net salary. 
+7. Generate payslip for all categories of employees. 
+8. Create the objects for the inherited classes and invoke the necessary methods to display the Payslip 
+9. Stop*/
