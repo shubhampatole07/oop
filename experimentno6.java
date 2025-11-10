@@ -46,3 +46,17 @@ class Exception
 		}
 	}
 }
+
+
+/*Steps:-  
+Step1: Start. 
+Step2: Import java.awt package 
+Step3: Import java.lang.string,awt. event,applet.Applet packages. 
+Step4: Create Class 
+Step5: Create Buttons and Text Fields. 
+Step6: Create the Data. 
+Step7: Perform the division. 
+Step8: Print the Data. 
+Step9: Stop.
+
+*/
